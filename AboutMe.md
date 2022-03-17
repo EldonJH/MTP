@@ -2,7 +2,7 @@
 
 ---
 
-Hello, my name is Eldon Hinshaw, and I am studying software engineering at the University of Missouri. This is my first semester here at Mizzou and I completed and associates degree at MACC before transferring. I am currently taking 1000 and 1040 and have been enjoying this curriculum very much and I am excited for what I will learn in the semesters to come.  
+Hello, my name is Eldon Hinshaw, and I am studying software engineering at the University of Missouri. This is my first semester here at Mizzou and I completed my associates degree at MACC before transferring. I am currently taking 1000 and 1040 and have been enjoying this curriculum very much and I am excited for what I will learn in the semesters to come.  
 
 ---
 
