@@ -4,7 +4,7 @@ This is a block of code from the FizzBuzz assignment
 
 ---
 
-
+---
 
 - [Homepage](README.md)
 - [About me](AboutMe.md)
