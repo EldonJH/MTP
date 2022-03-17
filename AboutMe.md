@@ -9,7 +9,7 @@
 
 
 - [Homepage](README.md)
-- [Image 1]()
+- [Image 1](Image1.md)
 - [Image 2]()
-- [Code]()
-- [Helpful Links]()
+- [Code](Code.md)
+- [Helpful Links](HelpfulLinks.md)
