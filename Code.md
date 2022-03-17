@@ -4,16 +4,12 @@ This is a block of code from the FizzBuzz assignment
 
 ---
 
+```
 <!DOCTYPE html>
-
 <html>
-	
 <head>
-	
 <meta charset="UTF-8">
-	
 <title>Fizz Buzz</title>
-	
 <script>
 
 function fizzbuzz() {
@@ -46,6 +42,7 @@ function fizzbuzz() {
 </body>
 
 </html>
+```
   
 ---
 
