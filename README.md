@@ -7,6 +7,6 @@ The purpose of this project is to familiarize myself with using GitHub to upload
 
 - [About Me](AboutMe.md)
 - [Image 1](Image1.md)
-- [Image 2]()
+- [Image 2](Imgae2.md)
 - [Code]()
 - [Helpful Links]()
