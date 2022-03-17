@@ -1,6 +1,6 @@
 # Helpful Links
 
-These are links to videos anf websites i found helpfull while making this project
+These are links to videos and websites I found helpfull while making this project
 
 ---
 
