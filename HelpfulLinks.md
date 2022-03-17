@@ -4,8 +4,11 @@ These are links to videos anf websites i found helpfull while making this projec
 
 ---
 
+1. [Learn Github in 20 minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s&t=610s)
+2. [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)
+3. [Imgaes with Markdown](https://www.youtube.com/watch?v=_1vmtqnKQew0
 
-
+---
 
 - [Homepage](README.md)
 - [About me](AboutMe.md)
