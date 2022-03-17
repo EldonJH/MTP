@@ -4,4 +4,4 @@ This image is hosted in the GitHub repository
 
 ---
 
-![A good boy](GoodBopy.jpeg)
+![A good boy](GoodBoy.jpeg)
