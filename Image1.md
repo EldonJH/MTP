@@ -10,6 +10,6 @@ This image is hosted elsewhere on the internet
 
 - [Homepage](README.md)
 - [About me](AboutMe.md)
-- [Image 2]()
+- [Image 2](Image2.md)
 - [Code](Code.md)
 - [Helpful Links](HelpfulLinks.md)
